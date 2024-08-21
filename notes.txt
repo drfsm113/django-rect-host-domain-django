@@ -1,0 +1,11 @@
+https://tailwindcss.com/docs/guides/create-react-app
+npm install @headlessui/react
+
+For a professional and sophisticated and mordern and we’ll refine the layout and alignment, focusing on a balanced and elegant design
+
+i need one compoenent is i need in tailwind using i need fully mordern and professionally and minimalisted and userfriendly and responsive fully updated code i need header part in i need---------------------------------------------------------------------------------|
+
+| Logo          | Home | Shop | Wallets | Offers | About Us | Cart [3] | Profile  |
+
++---------------------------------------------------------------------------------+
+ like i need

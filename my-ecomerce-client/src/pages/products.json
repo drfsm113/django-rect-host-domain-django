@@ -1,0 +1,86 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Premium Wireless Headphones",
+        "brand": "SoundMaster",
+        "description": "Experience crystal-clear audio with our noise-cancelling wireless headphones.",
+        "price": 249.99,
+        "discountPrice": 199.99,
+        "category": "Electronics",
+        "subCategory": "Audio",
+        "image": "https://example.com/images/headphones.jpg",
+        "gallery": [
+          "https://example.com/images/headphones-1.jpg",
+          "https://example.com/images/headphones-2.jpg",
+          "https://example.com/images/headphones-3.jpg"
+        ],
+        "rating": 4.5,
+        "reviews": 128,
+        "stock": 50,
+        "tags": ["wireless", "noise-cancelling", "bluetooth"],
+        "features": [
+          "40-hour battery life",
+          "Active noise cancellation",
+          "Comfortable over-ear design"
+        ],
+        "colors": ["Black", "Silver", "Blue"],
+        "sizes": []
+      },
+      {
+        "id": 2,
+        "name": "Ultra-Slim Laptop",
+        "brand": "TechPro",
+        "description": "Powerful performance in a sleek, portable design.",
+        "price": 1299.99,
+        "discountPrice": null,
+        "category": "Electronics",
+        "subCategory": "Computers",
+        "image": "https://example.com/images/laptop.jpg",
+        "gallery": [
+          "https://example.com/images/laptop-1.jpg",
+          "https://example.com/images/laptop-2.jpg",
+          "https://example.com/images/laptop-3.jpg"
+        ],
+        "rating": 4.8,
+        "reviews": 256,
+        "stock": 30,
+        "tags": ["ultrabook", "lightweight", "high-performance"],
+        "features": [
+          "Intel Core i7 processor",
+          "16GB RAM",
+          "512GB SSD",
+          "14-inch 4K display"
+        ],
+        "colors": ["Silver", "Space Gray"],
+        "sizes": []
+      },
+      {
+        "id": 3,
+        "name": "Athletic Running Shoes",
+        "brand": "SportFlex",
+        "description": "Comfortable, breathable running shoes for optimal performance.",
+        "price": 129.99,
+        "discountPrice": 99.99,
+        "category": "Fashion",
+        "subCategory": "Footwear",
+        "image": "https://example.com/images/running-shoes.jpg",
+        "gallery": [
+          "https://example.com/images/running-shoes-1.jpg",
+          "https://example.com/images/running-shoes-2.jpg",
+          "https://example.com/images/running-shoes-3.jpg"
+        ],
+        "rating": 4.3,
+        "reviews": 89,
+        "stock": 75,
+        "tags": ["running", "athletic", "comfortable"],
+        "features": [
+          "Breathable mesh upper",
+          "Responsive cushioning",
+          "Durable rubber outsole"
+        ],
+        "colors": ["Black/White", "Blue/Orange", "Gray/Green"],
+        "sizes": [7, 8, 9, 10, 11, 12]
+      }
+    ]
+  }
